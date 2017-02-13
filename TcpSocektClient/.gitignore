@@ -1,0 +1,9 @@
+.metadata/**
+.settings/**
+.target/**
+.recommenders/**
+CHAT/.settings/**
+CHAT/.project/**
+TcpSocektClient/.settings/**
+TcpSocektClient/target/**
+.gitignore/**
