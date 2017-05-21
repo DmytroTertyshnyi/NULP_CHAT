@@ -1,2 +1,0 @@
-INDEX VERSION 1.129+C:\Users\D1m0N\Documents\NULP_CHAT\RmiClient\.metadata\.plugins\org.eclipse.jdt.core
-237445142.index

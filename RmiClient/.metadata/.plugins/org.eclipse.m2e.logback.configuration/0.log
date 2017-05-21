@@ -1,9 +1,0 @@
-2017-03-13 19:52:39,298 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
-2017-03-13 19:54:29,211 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lpi.dst2016:client.rmi:1.0-SNAPSHOT @ C:\Users\D1m0N\Documents\NULP_CHAT\RmiClient\RMIClient\pom.xml.
-2017-03-13 19:54:29,943 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RMIClient/src/main/java
-2017-03-13 19:54:29,946 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RMIClient/src/test/java
-2017-03-13 19:54:30,190 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
-2017-03-13 19:54:32,905 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
-2017-03-13 19:54:32,961 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\D1m0N\Documents\NULP_CHAT\RmiClient\RMIClient\src\main\resources
-2017-03-13 19:54:32,973 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
-2017-03-13 19:54:32,988 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\D1m0N\Documents\NULP_CHAT\RmiClient\RMIClient\src\test\resources
